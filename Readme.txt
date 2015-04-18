@@ -1,0 +1,2 @@
+-расширение .gliffy можно открыть в онлайн сервисе www.gliffy.com
+-расширение .mmap можно открыть в программе Mindjet Mind Manager 15
